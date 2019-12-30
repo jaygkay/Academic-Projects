@@ -1,4 +1,4 @@
-# B.S. in Economics
+## B.S. in Economics
 #### Principles of Microeconomics
 #### Principles of Macroeconomics
 #### Principles of Accounting I
@@ -10,7 +10,7 @@
 #### HONORS: Introduction to Econometrics
 #### HONORS: Quantiative Analysis fo the Macroeconomy
 
-# B.A. in Mathematics
+## B.A. in Mathematics
 #### Calculus I
 #### Caluclus II
 #### Calculus III
