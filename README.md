@@ -2,7 +2,7 @@
 |----|----|----|----|
 ||University of Minnesota - Twin Cities || DePaul University|
 |curriculums|Principles of Microeconomics|Calculus I|Introduction to Programming: Python|
-|| Principles of Macroeconomics | Caluclus II | Data Analysis and Regression |
+|^| Principles of Macroeconomics | Caluclus II | Data Analysis and Regression |
 || Principles of Accounting | Calculus III | Data Visualization |
 || Intermediate Micro Economics | Caluclus IV | Fundamentals of Data Science| 
 || Intermediate Macro Economics | Sequences, series, and foundations | Advanced Data Analysis |
