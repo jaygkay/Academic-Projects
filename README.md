@@ -1,41 +1,15 @@
 |Major| Economics| Mathematics | Data Science (Predictive Analytics)
 |----|----|----|----|
 
-#### Principles of Microeconomics
-#### Principles of Macroeconomics
-#### Principles of Accounting I
-#### Intermediate Micro Economics
-#### Intermediate Macro Economics
-#### Topics in Economics: China
-#### Money and Banking
-#### International Finance
-#### HONORS: Introduction to Econometrics
-#### HONORS: Quantiative Analysis fo the Macroeconomy
-
-## BA in Mathematics
-#### Calculus I
-#### Caluclus II
-#### Calculus III
-#### Caluclus IV
-#### Sequences, series, and foundations
-#### Applied Linear Algebra
-#### Theory of Interest
-#### Advanced Calculus I
-#### HONORS: Cryptology
-#### HONORS: Theory of Statistics I
-#### HONORS: Theory of Statistics II
-
-## MS in Data Science (Predictive Analytics)
-#### Introduction to Programming: Python
-#### Daya Analysis and Regression
-#### Data Visualization
-#### Fundamentals of Data Science
-#### Advanced Data Analysis
-#### Programming Machine Learning Applications
-#### Time Series Analysis Forecasting
-#### Databases for Analytics
-#### Advanced Data Mining
-#### Monte Carlo Algorithms
-#### Recommender Systems
-#### Database Programming
-#### Graduate Internship
+| Principles of Microeconomics | Calculus I | Introduction to Programming: Python |
+| Principles of Macroeconomics | Caluclus II | Data Analysis and Regression |
+| Principles of Accounting | Calculus III | Data Visualization |
+| Intermediate Micro Economics | Caluclus IV | Fundamentals of Data Science| 
+| Intermediate Macro Economics | Sequences, series, and foundations | Advanced Data Analysis |
+| Topics in Economics: China | Applied Linear Algebra | Programming Machine Learning Applications |
+| Money and Banking | Advanced Calculus I | Time Series Analysis Forecasting |
+| International Finance | HONORS: Cryptology | Databases for Analytics | Advanced Data Mining |
+| HONORS: Introduction to Econometrics | HONORS: Theory of Statistics I | Monte Carlo Algorithms |
+| HONORS: Quantiative Analysis fo the Macroeconomy | HONORS: Theory of Statistics II | Recommender Systems |
+||| Database Programming |
+||| Graduate Internship |
