@@ -1,4 +1,4 @@
-||University of Minnesota - Twin Cities|<|DePaul University|
+||>|University of Minnesota - Twin Cities|DePaul University|
 |----|----|----|----|
 |Major|Economics|Mathematics|Data Science (Predictive Analytics)|
 |curriculums|Principles of Microeconomics|Calculus I|Introduction to Programming: Python|
