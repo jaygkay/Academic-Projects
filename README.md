@@ -8,8 +8,10 @@
 |Topics in Economics: China|Applied Linear Algebra| Programming Machine Learning Applications |
 |Money and Banking|Advanced Calculus I| Time Series Analysis Forecasting |
 |International Finance|HONORS: Cryptology| Databases for Analytics | Advanced Data Mining |
-|HONORS: Introduction to Econometrics|HONORS: Theory of Statistics I | Monte Carlo Algorithms |
-|HONORS: Quantiative Analysis fo the Macroeconomy|HONORS: Theory of Statistics II | Recommender Systems |
+|HONORS: 
+Introduction to Econometrics|HONORS: Theory of Statistics I | Monte Carlo Algorithms |
+|HONORS: 
+Quantiative Analysis fo the Macroeconomy|HONORS: Theory of Statistics II | Recommender Systems |
 ||| Database Programming |
 ||| Graduate Internship |
  
