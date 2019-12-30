@@ -1,3 +1,4 @@
+|----|----|----|----|
 |||University of Minnesota - Twin Cities |DePaul University|
 |----|----|----|----|
 |Major|Economics|Mathematics|Data Science (Predictive Analytics)|
