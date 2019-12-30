@@ -1,4 +1,4 @@
-## BS in Economics ## BA in Mathematics ## MS in Data Science (Predictive Analytics)
+|Major| Economics| Mathematics | Data Science (Predictive Analytics)
 |----|----|----|----|
 
 #### Principles of Microeconomics
