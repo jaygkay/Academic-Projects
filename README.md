@@ -1,4 +1,4 @@
-|Major| Economics| Mathematics | Data Science (Predictive Analytics)
+|Major| Economics| Mathematics | Data Science (Predictive Analytics)|
 |----|----|----|----|
 
 |curriculums| Principles of Microeconomics | Calculus I | Introduction to Programming: Python |
