@@ -1,4 +1,4 @@
-## B.S. in Economics
+## BS in Economics
 #### Principles of Microeconomics
 #### Principles of Macroeconomics
 #### Principles of Accounting I
@@ -10,7 +10,7 @@
 #### HONORS: Introduction to Econometrics
 #### HONORS: Quantiative Analysis fo the Macroeconomy
 
-## B.A. in Mathematics
+## BA in Mathematics
 #### Calculus I
 #### Caluclus II
 #### Calculus III
@@ -23,4 +23,17 @@
 #### HONORS: Theory of Statistics I
 #### HONORS: Theory of Statistics II
 
-# 
+## MS in Data Science (Predictive Analytics)
+#### Introduction to Programming: Python
+#### Daya Analysis and Regression
+#### Data Visualization
+#### Fundamentals of Data Science
+#### Advanced Data Analysis
+#### Programming Machine Learning Applications
+#### Time Series Analysis Forecasting
+#### Databases for Analytics
+#### Advanced Data Mining
+#### Monte Carlo Algorithms
+#### Recommender Systems
+#### Database Programming
+#### Graduate Internship
