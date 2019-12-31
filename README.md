@@ -1,4 +1,5 @@
-|Economics|Mathematics|Data Science (Predictive Analytics)|
+[course materials]
+|==Economics==|==Mathematics==|==Data Science (Predictive Analytics)==|
 |----|----|----|
 |Principles of Microeconomics|Calculus I| Introduction to Programming: Python|
 |Principles of Macroeconomics|Caluclus II| Data Analysis and Regression |
