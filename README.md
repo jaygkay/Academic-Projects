@@ -1,4 +1,4 @@
-==course materials==
+# course materials
 
 |Economics|Mathematics|Data Science (Predictive Analytics)|
 |----|----|----|
