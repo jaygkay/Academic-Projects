@@ -1,4 +1,4 @@
-# course materials
+# Academic Majors' Course Materials
 ***
 |B.S. Economics|B.A. Mathematics|M.S. Data Science (Predictive Analytics)|
 |----|----|----|
