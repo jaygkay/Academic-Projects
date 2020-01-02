@@ -11,7 +11,7 @@
 |Money and Banking|Advanced Calculus I| Time Series Analysis Forecasting |
 |International Finance|HONORS: Cryptology| Databases for Analytics | Advanced Data Mining |
 |HONORS:Introduction to Econometrics|HONORS: Theory of Statistics I | Monte Carlo Algorithms |
-|HONORS:Analysis fo the Macroeconomy|HONORS: Theory of Statistics II | Recommender Systems |
+|HONORS:Analysis of the Macroeconomy|HONORS: Theory of Statistics II | Recommender Systems |
 ||| Database Programming |
 ||| Graduate Internship |
  
