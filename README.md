@@ -8,7 +8,7 @@
 |Intermediate Micro Economics|Caluclus IV| Fundamentals of Data Science| 
 |Intermediate Macro Economics|Sequences, series, and foundations| Advanced Data Analysis |
 |Topics in Economics: China|Applied Linear Algebra| Programming Machine Learning Applications |
-|Money and Banking|Advanced Calculus I| Time Series Analysis Forecasting |
+|Money and Banking|Advanced Calculus I| Time Series Analysis and Forecasting |
 |International Finance|HONORS: Cryptology| Databases for Analytics | Advanced Data Mining |
 |HONORS:Introduction to Econometrics|HONORS: Theory of Statistics I | Monte Carlo Algorithms |
 |HONORS:Analysis of the Macroeconomy|HONORS: Theory of Statistics II | Recommender Systems |
