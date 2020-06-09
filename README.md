@@ -13,5 +13,5 @@
 |HONORS:Introduction to Econometrics|HONORS: Theory of Statistics I | Monte Carlo Algorithms |
 |HONORS:Analysis of the Macroeconomy|HONORS: Theory of Statistics II | Recommender Systems |
 ||| Database Programming |
-||| Graduate Internship |
+||
  
